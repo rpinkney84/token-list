@@ -1,0 +1,25 @@
+## I agree to not ping *anybody* on Discord/Twitter/email about this pull request. Instead I will inquire by posting a new comment in the pull request if needed.
+----
+PRs are reviewed in bulk and and can take up to **two weeks** to be merged.  
+## I agree to not ping _anybody_ on Discord/Twitter/email about this pull request. Instead I will inquire by posting a new comment in the pull request if needed.
+
+**Please provide the following information for your token.**
+---
+
+Please include change to the `src/tokens/solana.tokenlist.json` file in the PR. 
+PRs are reviewed in bulk and and can take up to **two weeks** to be merged.
+
+_This repository is managed using an auto merge action. Please ensure your PR has no deleted lines, and it will be merged._
+
+## **Please provide the following information for your token.**
+
+Please include change to the `src/tokens/solana.tokenlist.json` file in the PR.
+DON'T modify any other token on the list.
+
+At minimum each entry should have
+* Token Address: 3vHSsV6mgvpa1JVuuDZVB72vYbeUNzW4mBxiBftwzHEA
+* Token Name: Final Frontier
+* Token Symbol: FRNT
+* Logo: https://drive.google.com/file/d/1xHYDM_pnQlL-nRJMQMrUv8Mu3eWdEtTI/view?usp=sharing
+* Link to the official homepage of token: https://ourfinalfrontier.net
+* Coingecko ID if available (https://www.coingecko.com/api/documentations/v3#/coins/get_coins__id_):
